@@ -1,0 +1,83 @@
+C:\Users\carlo\source\repos\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.exe
+C:\Users\carlo\source\repos\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.deps.json
+C:\Users\carlo\source\repos\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.runtimeconfig.json
+C:\Users\carlo\source\repos\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.dll
+C:\Users\carlo\source\repos\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.pdb
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.Form1.resources
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.AssemblyInfo.cs
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.dll
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\refint\CalculadoraBase.dll
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.pdb
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.genruntimeconfig.cache
+C:\Users\carlo\source\repos\CalculadoraBase\obj\Debug\net8.0-windows\ref\CalculadoraBase.dll
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.exe
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.deps.json
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.runtimeconfig.json
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.dll
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.pdb
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.Form1.resources
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.csproj.GenerateResource.cache
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.AssemblyInfoInputs.cache
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.AssemblyInfo.cs
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.csproj.CoreCompileInputs.cache
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.dll
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\refint\CalculadoraBase.dll
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.pdb
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.genruntimeconfig.cache
+C:\Users\uezo\Desktop\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\ref\CalculadoraBase.dll
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.exe
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.deps.json
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.runtimeconfig.json
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.dll
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.pdb
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.Form1.resources
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.csproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.dll
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\refint\CalculadoraBase.dll
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.pdb
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\ref\CalculadoraBase.dll
+C:\Users\rafae\OneDrive\Desktop\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.Form2.resources
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.exe
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.deps.json
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.runtimeconfig.json
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.dll
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.pdb
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.Form1.resources
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.Form2.resources
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.csproj.GenerateResource.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.AssemblyInfoInputs.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.AssemblyInfo.cs
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.dll
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\refint\CalculadoraBase.dll
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.pdb
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.genruntimeconfig.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\ref\CalculadoraBase.dll
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.exe
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.deps.json
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.runtimeconfig.json
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.dll
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\bin\Debug\net8.0-windows\CalculadoraBase.pdb
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.Form1.resources
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.Form2.resources
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.csproj.GenerateResource.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.AssemblyInfoInputs.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.AssemblyInfo.cs
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.dll
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\refint\CalculadoraBase.dll
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.pdb
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\CalculadoraBase.genruntimeconfig.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Debug\net8.0-windows\ref\CalculadoraBase.dll

@@ -1,0 +1,17 @@
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\bin\Release\net8.0-windows\CalculadoraBase.exe
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\bin\Release\net8.0-windows\CalculadoraBase.deps.json
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\bin\Release\net8.0-windows\CalculadoraBase.runtimeconfig.json
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\bin\Release\net8.0-windows\CalculadoraBase.dll
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\bin\Release\net8.0-windows\CalculadoraBase.pdb
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\CalculadoraBase.Form1.resources
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\CalculadoraBase.Form2.resources
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\CalculadoraBase.csproj.GenerateResource.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\CalculadoraBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\CalculadoraBase.AssemblyInfoInputs.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\CalculadoraBase.AssemblyInfo.cs
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\CalculadoraBase.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\CalculadoraBase.dll
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\refint\CalculadoraBase.dll
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\CalculadoraBase.pdb
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\CalculadoraBase.genruntimeconfig.cache
+D:\OneDrive - Universidade do Estado do Rio de Janeiro\topicos 3\p1\2025-04-10\CalculadoraBase\obj\Release\net8.0-windows\ref\CalculadoraBase.dll
